@@ -1,0 +1,7 @@
+Final revenue after 5000 customers:
+
+Random Pricing:        14734.00
+Epsilon-Greedy:        15162.00
+UCB:                   15746.00
+Thompson Sampling:     15541.00
+Oracle (Upper Bound):  15771.00
