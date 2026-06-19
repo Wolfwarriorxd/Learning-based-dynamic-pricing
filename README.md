@@ -1,5 +1,7 @@
 # Learning-Based Dynamic Pricing using Bandit Algorithms
 
+Author: Anish Deshmukh Roll No: ED23B005, IIT Madras
+
 This project implements a learning-based dynamic pricing framework for an e-commerce seller who does not know customer willingness-to-pay in advance. The goal is to learn optimal prices online using only purchase feedback and maximize cumulative revenue.
 
 ## Problem Setting
